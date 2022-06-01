@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Testimonail-assessment/static/css/main.2bedc0b5.css",
+    "main.js": "/Testimonail-assessment/static/js/main.2438210b.js",
+    "static/js/787.3a21225b.chunk.js": "/Testimonail-assessment/static/js/787.3a21225b.chunk.js",
+    "static/media/Img2.jpg": "/Testimonail-assessment/static/media/Img2.ede7cc269584efd858a1.jpg",
+    "static/media/Img1.jpg": "/Testimonail-assessment/static/media/Img1.e5ba0b6b1c096e0531d2.jpg",
+    "static/media/Img3.jpg": "/Testimonail-assessment/static/media/Img3.e075929b4169249601fc.jpg",
+    "static/media/banner.jpg": "/Testimonail-assessment/static/media/banner.b8fcdd386a83b405afd9.jpg",
+    "static/media/Ellipse 22.jpg": "/Testimonail-assessment/static/media/Ellipse 22.57536dc80876efc44937.jpg",
+    "static/media/Ellipse 23.jpg": "/Testimonail-assessment/static/media/Ellipse 23.67037551dba646320a94.jpg",
+    "static/media/Ellipse 24.jpg": "/Testimonail-assessment/static/media/Ellipse 24.4c7e757ce20dd480775f.jpg",
+    "index.html": "/Testimonail-assessment/index.html",
+    "main.2bedc0b5.css.map": "/Testimonail-assessment/static/css/main.2bedc0b5.css.map",
+    "main.2438210b.js.map": "/Testimonail-assessment/static/js/main.2438210b.js.map",
+    "787.3a21225b.chunk.js.map": "/Testimonail-assessment/static/js/787.3a21225b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bedc0b5.css",
+    "static/js/main.2438210b.js"
+  ]
+}
